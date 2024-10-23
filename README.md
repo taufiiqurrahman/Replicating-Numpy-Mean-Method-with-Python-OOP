@@ -1,7 +1,3 @@
-Berikut adalah contoh konten untuk file README.md berdasarkan judul **"Replicating Numpy Mean Method with Python OOP"** dan kode yang telah Anda berikan:
-
----
-
 # Replicating Numpy Mean Method with Python OOP
 
 This project demonstrates a simple Python class `numpy_clone` that mimics Numpy's `.mean()` method for both 1D and 2D arrays. The class is built using basic Python concepts such as indexing, list methods, object-oriented programming (OOP), and manual mean calculations. 
