@@ -127,4 +127,3 @@ This project demonstrates a simple, yet effective, implementation of Numpy-like 
 
 --- 
 
-Silakan modifikasi bagian yang perlu sesuai dengan kebutuhan Anda atau tambahkan informasi lain jika diperlukan.
